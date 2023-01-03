@@ -29,8 +29,9 @@ First page:
 •	Hide disabled users toggle: This toggle will filter the list of users to show only enabled users or only disabled users.
 •	User list: This table will display the list of users, including their ID, username, and email. The table will be formatted as shown in the example provided, with a column for each field and a filter and sort button next to each field.
 
+
 Second page:
-•	Username field: This field will allow the user to enter the username for the new user.
+Username field: This field will allow the user to enter the username for the new user.
 •	Display name field: This field will allow the user to enter the display name.
 •	Phone field: This field will allow the user to enter the phone number.
 •	Email field: This field will allow the user to enter the email address for the new user.
@@ -47,3 +48,14 @@ Behavior:
 •	When the first page is displayed, it should show the list of users with all users visible, sorted by ID in ascending order.
 •	If an error occurs while saving the new user details on the second page, a warning should be displayed to the user indicating the error.
 
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+Next
+React
+Vue
+Angular
+Svelte
+Laravel
+Bootstrap
+JQuery
